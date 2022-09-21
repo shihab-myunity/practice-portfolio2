@@ -6,6 +6,7 @@ h1 {
 }
 .first-section {
   display: flex;
+  margin-bottom: 100px;
 }
 .half-width {
   width: 50%;
@@ -28,4 +29,44 @@ a {
 .explore-more {
   margin-top: 50px;
   margin-bottom: 30px;
+}
+.first-heading {
+  border-left: 6px solid #ff5959;
+  padding-left: 2%;
+}
+.big-heading {
+  text-align: center;
+}
+#second-section {
+  display: flex;
+}
+.second-section-item {
+  margin: 50px;
+  padding: 60px 50px;
+  border-radius: 20px;
+}
+#item1 {
+  background-color: #4f9da61a;
+}
+#item2 {
+  background-color: #ff59591a;
+}
+#item3 {
+  background-color: #fff4d6;
+}
+.second-section-item img {
+  width: 30%;
+}
+.third-section {
+  display: flex;
+  margin: 100px;
+  background-image: url(/images/shape.png);
+  background-size: 400px;
+  background-repeat: no-repeat;
+}
+h2 {
+  font-size: 50px;
+}
+.third-section p {
+  padding: 20px 10px;
 }
