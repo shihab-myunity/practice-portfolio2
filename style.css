@@ -63,7 +63,7 @@ a {
 .third-section {
   display: flex;
   margin: 100px;
-  background-image: url(/images/shape.png);
+  background-image: url(images/shape.png);
   background-size: 400px;
   background-repeat: no-repeat;
 }
@@ -76,7 +76,7 @@ h2 {
 .fourth-section {
   display: flex;
   margin: 100px;
-  background-image: url(/images/shape.png);
+  background-image: url(images/shape.png);
   background-position-x: right;
   background-position-y: bottom;
   background-size: 200px;
